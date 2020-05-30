@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `The tall guys blog`,
+    title: `Franks blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Frank Heber`,
+      summary: `who lives and works in Deutschland building useful things.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
